@@ -1,3 +1,5 @@
+from exercico_04 import somar_numeros
+
 def cadastrar(nome, email, Serie, nota01, nota02, nota03):
     lista = []
     dicionario = {
@@ -7,6 +9,7 @@ def cadastrar(nome, email, Serie, nota01, nota02, nota03):
         "notas" : [nota01, nota02, nota03]
         }
     lista.append(dicionario)
+    media = somar_numeros(dicionario["nota"])
     return dicionario
 
 print (cadastrar(

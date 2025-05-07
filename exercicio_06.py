@@ -19,5 +19,4 @@ print(cadastrar_filmes("Pequeno principe",
     "Livre", 
     "Literatura infantil e juvenil. ", 
     "Ficção",
-    "Conto"
     ))
