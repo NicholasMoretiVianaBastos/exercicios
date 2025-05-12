@@ -6,7 +6,8 @@ def cadastrar(nome, email, Serie, nota01, nota02, nota03):
         "nome" : nome, 
         "email" : email,
         "serie" : Serie, 
-        "notas" : [nota01, nota02, nota03]
+        "notas" : [nota01, nota02, nota03], 
+        "media" : somar_numeros
         }
     lista.append(dicionario)
     media = somar_numeros(dicionario["nota"])
