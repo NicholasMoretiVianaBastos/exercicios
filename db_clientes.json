@@ -1,0 +1,14 @@
+[
+    {
+        "nome_cliente": " Bruno",
+        "cpf_cliente": 55115242800,
+        "rg_cliente": 1233534,
+        "data_de_nascimento_cliente": " 18/04/2009",
+        "endereco_cliente": " travessa integraçao 211",
+        "cidade_cliente": " santo andre",
+        "estado_cliente": " sao paulo",
+        "telefone_cliente": 238278473,
+        "celular_cliente": 23578237,
+        "email_cliente": " nicholasmoreti65@gmail.com"
+    }
+]
