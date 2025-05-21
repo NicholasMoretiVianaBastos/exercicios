@@ -1,0 +1,72 @@
+[
+  {
+    "nome_do_filme" : "Homem aranha",
+    "classificacao" : "12",
+    "tempo" : "2 horas e 1 minuto",
+    "data_de_lancamento" : "2002", 
+    "generos" : "Ficçâo cientifica e Ação"
+  },
+  {
+    "nome_do_filme" : "Gato de botas 2",
+    "classificacao" : "Livre",
+    "tempo" : "1 hora e 42 minutos", 
+    "data_de_lancamento" : "2022", 
+    "generos" : "Filme para a familia, Para toda familia e Comeida"
+  },
+  {
+    "nome_do_filme" : "Homem aranha no aranhavero",
+    "classificacao" :"10", 
+    "tempo" : "1 hora 56 minutos", 
+    "data_de_lancamento" : "2018",
+    "generos" : "Filme para a familia, Para toda familia, Ficção cientifica e Ação"
+  },
+  {
+    "nome_do_filme" : "Tropa de elite",
+    "classificacao" : 
+    "tempo" :
+    "data_de_lancamento" :
+    "generos" :
+  },
+  {
+    "nome_do_filme" : "Cidade de Deus",
+    "classificacao" : 
+    "tempo" :
+    "data_de_lancamento" :
+    "generos" :
+  },
+  {
+    "nome_do_filme" : "Os croods",
+    "classificacao" :
+    "tempo" :
+    "data_de_lancamento" :
+    "generos" :
+  },
+  {
+    "nome_do_filme" : "Ta dando onda",
+    "classificacao" :
+    "tempo" :
+    "data_de_lancamento" :
+    "generos" :
+  },
+  {
+    "nome_do_filme" : "O segredo dos animais",
+    "classificacao" :
+    "tempo" :
+    "data_de_lancamento" :
+    "generos" :
+  },
+  {
+    "nome_do_filme" : "Bad boys",
+    "classificacao" :
+    "tempo" :
+    "data_de_lancamento" :
+    "generos" :
+  },
+  {
+    "nome_do_filme" : "Extraordinario",
+    "classificacao" :
+    "tempo" :
+    "data_de_lancamento" :
+    "generos" :
+  }
+]
