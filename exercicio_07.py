@@ -49,8 +49,8 @@ def cadastrar_cliente(dados_cliente):
 
 
 
-def mostrar_dados_clientes():
-    for cliente in obter_dados_cliente:
+def mostrar_dados_clientes(dados_cliente):
+    for cliente in dados_cliente:
         print(f"""
               Nome do Cliente: {cliente["nome do cliente"]}
               CPF do Cliente: {cliente["cpf do cliente"]}
