@@ -1,0 +1,14 @@
+[
+    {
+        "marca_carro": "Toyota",
+        "modelo_veiculo": "Corolla",
+        "ano_fabricacao": 2020,
+        "cor_veiculo": "Prata"
+    },
+    {
+        "marca_carro": "Porsche",
+        "modelo_veiculo": "Porsche 911",
+        "ano_fabricacao": 1963,
+        "cor_veiculo": "Preto"
+    }
+]
