@@ -5,5 +5,19 @@
         "lancamento_filme": 2012,
         "tempo_filme": "1h 10 min",
         "generos_filme": "Açao e ficçao cientifica"
+    },
+    {
+        "nome_filme": "Cidade de Deus",
+        "classificacao_filme": 18,
+        "lancamento_filme": 2012,
+        "tempo_filme": "120 min",
+        "generos_filme": "Açao "
+    },
+    {
+        "nome_filme": "Meu Malvado Favorito",
+        "classificacao_filme": 10,
+        "lancamento_filme": 2013,
+        "tempo_filme": "1 h 37 m",
+        "generos_filme": "Comedia e Para toda familia"
     }
 ]

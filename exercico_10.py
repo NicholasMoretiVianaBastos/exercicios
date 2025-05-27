@@ -36,14 +36,19 @@ def cadastrar_filmes(dados_filme):
         json.dump(filmes, arq_json, indent=4, ensure_ascii=False)
 
 def mostrar_dados_filmes(dados_filmes):
-    for filme in dados_filmes:
-        print(f"""
+    if data:
+        for filme in dados_filmes:
+            print("="*80)
+            print(f"""
               Nome do filme: {filme["nome_filme"]}
               Classificação do filme: {filme["classificacao_filme"]}
               Data de lançamento: {filme["lancamento_filme"]}
               Duração do filme: {filme["tempo_filme"]}
               Generos do filme: {filme["generos_filme"]}
               """)
+    else:
+        print("Não existe nenhum filme cadastrado!")
+
         
 def iniciar_sistema():
     filmes = carregar_dados()
