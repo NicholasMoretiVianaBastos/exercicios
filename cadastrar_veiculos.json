@@ -1,14 +1,16 @@
 [
     {
-        "marca_carro": "Toyota",
-        "modelo_veiculo": "Corolla",
-        "ano_fabricacao": 2020,
-        "cor_veiculo": "Prata"
+        "marca_veiculo": "Toyota ",
+        "modelo_veiculo": "Yaris",
+        "ano_fabricacao": 2018,
+        "cor_veiculo": "Branco",
+        "tipo": "Carro"
     },
     {
-        "marca_carro": "Porsche",
-        "modelo_veiculo": "Porsche 911",
-        "ano_fabricacao": 1963,
-        "cor_veiculo": "Preto"
+        "marca_veiculo": "Yamaha",
+        "modelo_veiculo": "factor",
+        "ano_fabricacao": 2009,
+        "cor_veiculo": "Vermelho",
+        "tipo": "Moto"
     }
 ]
